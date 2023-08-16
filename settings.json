@@ -1,0 +1,21 @@
+{
+	"db" : {
+		"windows_authetication": "yes",
+		"Server": "CDGMBITL22\\SQLN",
+		"Database": "hrm_police",
+		"UserId": "sa",
+		"Password": "pwd!s3cr3t$$"
+	},
+	"pasword_policy":{
+		"max_length": 50,
+		"min_length": 8,
+		"special_char": "yes",
+		"number" : "yes",
+		"capital": "yes",
+		"days_pwd_change": "60",
+		"days_warning_before_pwd_change" : "7"
+	},
+	"cardpresso": {
+		"path": "C:\\Program Files\\cardPresso\\cardPresso.exe"
+	}
+}
