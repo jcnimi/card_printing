@@ -26031,3 +26031,217 @@
    WARNING: This is a development server. Do not use it in a production deployment.
 2023-08-22 11:11:55,534 INFO werkzeug Thread-2 :  * Running on http://10.64.1.52:5000/ (Press CTRL+C to quit)
 2023-08-22 11:12:07,915 INFO werkzeug Thread-6 : 127.0.0.1 - - [22/Aug/2023 11:12:07] "POST /predict HTTP/1.1" 200 -
+2023-08-22 11:13:41,135 INFO werkzeug Thread-1 :  * Detected change in 'C:\\nimi\\Perso\\Development\\PoliceAppSuite\\HRM_Police_DRC\\bin\\Debug\\net7.0-windows\\Script\\architecture.py', reloading
+2023-08-22 11:13:41,244 INFO werkzeug Thread-1 :  * Detected change in 'C:\\nimi\\Perso\\Development\\PoliceAppSuite\\HRM_Police_DRC\\bin\\Debug\\net7.0-windows\\Script\\predict_face.py', reloading
+2023-08-22 11:13:41,259 INFO werkzeug Thread-1 :  * Detected change in 'C:\\nimi\\Perso\\Development\\PoliceAppSuite\\HRM_Police_DRC\\bin\\Debug\\net7.0-windows\\Script\\read_img_db.py', reloading
+2023-08-22 11:13:41,272 INFO werkzeug Thread-1 :  * Detected change in 'C:\\nimi\\Perso\\Development\\PoliceAppSuite\\HRM_Police_DRC\\bin\\Debug\\net7.0-windows\\Script\\train_v3.py', reloading
+2023-08-22 11:13:41,300 INFO werkzeug Thread-1 :  * Detected change in 'C:\\nimi\\Perso\\Development\\PoliceAppSuite\\HRM_Police_DRC\\bin\\Debug\\net7.0-windows\\Script\\wsqTojpg.py', reloading
+2023-08-22 11:13:44,908 INFO werkzeug MainThread :  * Restarting with watchdog (windowsapi)
+2023-08-22 11:14:23,649 WARNING werkzeug MainThread :  * Debugger is active!
+2023-08-22 11:14:23,681 INFO werkzeug MainThread :  * Debugger PIN: 801-006-101
+2023-08-22 11:14:25,075 WARNING werkzeug Thread-2 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2023-08-22 11:14:25,077 INFO werkzeug Thread-2 :  * Running on http://10.64.1.52:5000/ (Press CTRL+C to quit)
+2023-08-22 11:14:55,389 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\python-3.9.16-h6244533_1\\tcl\\tix8.4.3\\pref\\WmDefault.py', reloading
+2023-08-22 11:14:56,080 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\python-3.9.16-h6244533_1\\Tools\\demo\\beer.py', reloading
+2023-08-22 11:14:56,085 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\python-3.9.16-h6244533_1\\Tools\\demo\\eiffel.py', reloading
+2023-08-22 11:14:56,091 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\python-3.9.16-h6244533_1\\Tools\\demo\\hanoi.py', reloading
+2023-08-22 11:14:56,096 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\python-3.9.16-h6244533_1\\Tools\\demo\\markov.py', reloading
+2023-08-22 11:14:56,101 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\python-3.9.16-h6244533_1\\Tools\\demo\\mcast.py', reloading
+2023-08-22 11:14:56,106 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\python-3.9.16-h6244533_1\\Tools\\demo\\queens.py', reloading
+2023-08-22 11:14:56,110 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\python-3.9.16-h6244533_1\\Tools\\demo\\rpython.py', reloading
+2023-08-22 11:14:56,115 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\python-3.9.16-h6244533_1\\Tools\\demo\\rpythond.py', reloading
+2023-08-22 11:14:56,124 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\python-3.9.16-h6244533_1\\Tools\\demo\\sortvisu.py', reloading
+2023-08-22 11:14:56,132 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\python-3.9.16-h6244533_1\\Tools\\demo\\spreadsheet.py', reloading
+2023-08-22 11:14:56,163 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\python-3.9.16-h6244533_1\\Tools\\i18n\\makelocalealias.py', reloading
+2023-08-22 11:14:56,172 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\python-3.9.16-h6244533_1\\Tools\\i18n\\msgfmt.py', reloading
+2023-08-22 11:14:56,180 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\python-3.9.16-h6244533_1\\Tools\\i18n\\pygettext.py', reloading
+2023-08-22 11:14:56,252 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\python-3.9.16-h6244533_1\\Tools\\pynche\\ColorDB.py', reloading
+2023-08-22 11:14:56,257 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\python-3.9.16-h6244533_1\\Tools\\pynche\\DetailsViewer.py', reloading
+2023-08-22 11:14:56,266 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\python-3.9.16-h6244533_1\\Tools\\pynche\\ListViewer.py', reloading
+2023-08-22 11:14:56,272 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\python-3.9.16-h6244533_1\\Tools\\pynche\\Main.py', reloading
+2023-08-22 11:14:56,284 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\python-3.9.16-h6244533_1\\Tools\\pynche\\pyColorChooser.py', reloading
+2023-08-22 11:14:56,291 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\python-3.9.16-h6244533_1\\Tools\\pynche\\StripViewer.py', reloading
+2023-08-22 11:14:56,297 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\python-3.9.16-h6244533_1\\Tools\\pynche\\Switchboard.py', reloading
+2023-08-22 11:14:56,584 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\python-3.9.16-h6244533_1\\Tools\\scripts\\2to3.py', reloading
+2023-08-22 11:14:56,590 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\python-3.9.16-h6244533_1\\Tools\\scripts\\abitype.py', reloading
+2023-08-22 11:14:56,596 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\python-3.9.16-h6244533_1\\Tools\\scripts\\analyze_dxp.py', reloading
+2023-08-22 11:14:56,601 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\python-3.9.16-h6244533_1\\Tools\\scripts\\combinerefs.py', reloading
+2023-08-22 11:14:56,605 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\python-3.9.16-h6244533_1\\Tools\\scripts\\crlf.py', reloading
+2023-08-22 11:14:56,609 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\python-3.9.16-h6244533_1\\Tools\\scripts\\diff.py', reloading
+2023-08-22 11:14:56,614 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\python-3.9.16-h6244533_1\\Tools\\scripts\\eptags.py', reloading
+2023-08-22 11:14:56,619 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\python-3.9.16-h6244533_1\\Tools\\scripts\\finddiv.py', reloading
+2023-08-22 11:14:56,624 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\python-3.9.16-h6244533_1\\Tools\\scripts\\findnocoding.py', reloading
+2023-08-22 11:14:56,629 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\python-3.9.16-h6244533_1\\Tools\\scripts\\find_recursionlimit.py', reloading
+2023-08-22 11:14:56,636 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\python-3.9.16-h6244533_1\\Tools\\scripts\\fixcid.py', reloading
+2023-08-22 11:14:56,642 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\python-3.9.16-h6244533_1\\Tools\\scripts\\fixdiv.py', reloading
+2023-08-22 11:14:56,646 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\python-3.9.16-h6244533_1\\Tools\\scripts\\fixheader.py', reloading
+2023-08-22 11:14:56,651 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\python-3.9.16-h6244533_1\\Tools\\scripts\\fixnotice.py', reloading
+2023-08-22 11:14:56,656 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\python-3.9.16-h6244533_1\\Tools\\scripts\\fixps.py', reloading
+2023-08-22 11:14:56,660 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\python-3.9.16-h6244533_1\\Tools\\scripts\\generate_opcode_h.py', reloading
+2023-08-22 11:14:56,664 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\python-3.9.16-h6244533_1\\Tools\\scripts\\google.py', reloading
+2023-08-22 11:14:56,670 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\python-3.9.16-h6244533_1\\Tools\\scripts\\ifdef.py', reloading
+2023-08-22 11:14:56,673 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\python-3.9.16-h6244533_1\\Tools\\scripts\\lfcr.py', reloading
+2023-08-22 11:14:56,677 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\python-3.9.16-h6244533_1\\Tools\\scripts\\make_ctype.py', reloading
+2023-08-22 11:14:56,682 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\python-3.9.16-h6244533_1\\Tools\\scripts\\mkreal.py', reloading
+2023-08-22 11:14:56,688 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\python-3.9.16-h6244533_1\\Tools\\scripts\\objgraph.py', reloading
+2023-08-22 11:14:56,693 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\python-3.9.16-h6244533_1\\Tools\\scripts\\parse_html5_entities.py', reloading
+2023-08-22 11:14:56,700 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\python-3.9.16-h6244533_1\\Tools\\scripts\\patchcheck.py', reloading
+2023-08-22 11:14:56,705 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\python-3.9.16-h6244533_1\\Tools\\scripts\\pdeps.py', reloading
+2023-08-22 11:14:56,710 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\python-3.9.16-h6244533_1\\Tools\\scripts\\pep384_macrocheck.py', reloading
+2023-08-22 11:14:56,717 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\python-3.9.16-h6244533_1\\Tools\\scripts\\pindent.py', reloading
+2023-08-22 11:14:56,721 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\python-3.9.16-h6244533_1\\Tools\\scripts\\ptags.py', reloading
+2023-08-22 11:14:56,726 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\python-3.9.16-h6244533_1\\Tools\\scripts\\pysource.py', reloading
+2023-08-22 11:14:56,732 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\python-3.9.16-h6244533_1\\Tools\\scripts\\reindent.py', reloading
+2023-08-22 11:14:56,736 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\python-3.9.16-h6244533_1\\Tools\\scripts\\rgrep.py', reloading
+2023-08-22 11:14:56,741 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\python-3.9.16-h6244533_1\\Tools\\scripts\\serve.py', reloading
+2023-08-22 11:14:56,745 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\python-3.9.16-h6244533_1\\Tools\\scripts\\smelly.py', reloading
+2023-08-22 11:14:56,754 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\python-3.9.16-h6244533_1\\Tools\\scripts\\texi2html.py', reloading
+2023-08-22 11:14:56,759 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\python-3.9.16-h6244533_1\\Tools\\scripts\\untabify.py', reloading
+2023-08-22 11:14:56,767 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\python-3.9.16-h6244533_1\\Tools\\scripts\\var_access_benchmark.py', reloading
+2023-08-22 11:14:56,771 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\python-3.9.16-h6244533_1\\Tools\\scripts\\which.py', reloading
+2023-08-22 11:14:56,776 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\python-3.9.16-h6244533_1\\Tools\\scripts\\win_add2path.py', reloading
+2023-08-22 11:14:58,497 INFO werkzeug MainThread :  * Restarting with watchdog (windowsapi)
+2023-08-22 11:15:30,103 WARNING werkzeug MainThread :  * Debugger is active!
+2023-08-22 11:15:30,136 INFO werkzeug MainThread :  * Debugger PIN: 801-006-101
+2023-08-22 11:15:31,202 WARNING werkzeug Thread-2 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2023-08-22 11:15:31,203 INFO werkzeug Thread-2 :  * Running on http://10.64.1.52:5000/ (Press CTRL+C to quit)
+2023-08-22 11:15:42,237 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\python-3.9.17-h6244533_0\\info\\recipe\\parent\\tests\\distutils\\foobar.py', reloading
+2023-08-22 11:15:42,240 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\python-3.9.17-h6244533_0\\info\\recipe\\parent\\tests\\distutils\\setup.py', reloading
+2023-08-22 11:15:42,247 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\python-3.9.17-h6244533_0\\info\\recipe\\parent\\tests\\distutils.cext\\foo.py', reloading
+2023-08-22 11:15:42,249 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\python-3.9.17-h6244533_0\\info\\recipe\\parent\\tests\\distutils.cext\\setup.py', reloading
+2023-08-22 11:15:42,260 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\python-3.9.17-h6244533_0\\info\\recipe\\parent\\tests\\processpoolexecutor-max_workers-61\\ppe.py', reloading
+2023-08-22 11:15:42,269 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\python-3.9.17-h6244533_0\\info\\recipe\\parent\\brand_python.py', reloading
+2023-08-22 11:15:42,272 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\python-3.9.17-h6244533_0\\info\\recipe\\parent\\build-locally.py', reloading
+2023-08-22 11:15:42,293 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\python-3.9.17-h6244533_0\\info\\recipe\\parent\\fix_staged_scripts.py', reloading
+2023-08-22 11:15:42,311 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\python-3.9.17-h6244533_0\\info\\recipe\\parent\\replace-word-pairs.py', reloading
+2023-08-22 11:15:42,315 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\python-3.9.17-h6244533_0\\info\\recipe\\parent\\run_test.py', reloading
+2023-08-22 11:15:42,343 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\python-3.9.17-h6244533_0\\info\\test\\tests\\distutils\\foobar.py', reloading
+2023-08-22 11:15:42,345 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\python-3.9.17-h6244533_0\\info\\test\\tests\\distutils\\setup.py', reloading
+2023-08-22 11:15:42,357 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\python-3.9.17-h6244533_0\\info\\test\\tests\\processpoolexecutor-max_workers-61\\ppe.py', reloading
+2023-08-22 11:15:42,365 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\python-3.9.17-h6244533_0\\info\\test\\run_test.py', reloading
+2023-08-22 11:15:43,867 INFO werkzeug MainThread :  * Restarting with watchdog (windowsapi)
+2023-08-22 11:16:10,120 WARNING werkzeug MainThread :  * Debugger is active!
+2023-08-22 11:16:10,155 INFO werkzeug MainThread :  * Debugger PIN: 801-006-101
+2023-08-22 11:16:11,646 WARNING werkzeug Thread-2 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2023-08-22 11:16:11,647 INFO werkzeug Thread-2 :  * Running on http://10.64.1.52:5000/ (Press CTRL+C to quit)
+2023-08-22 11:16:11,813 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\python-3.9.17-h6244533_0\\Lib\\lib2to3\\fixes\\fix_urllib.py', reloading
+2023-08-22 11:16:11,816 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\python-3.9.17-h6244533_0\\Lib\\lib2to3\\fixes\\fix_ws_comma.py', reloading
+2023-08-22 11:16:12,429 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\python-3.9.17-h6244533_0\\Lib\\lib2to3\\fixes\\fix_xrange.py', reloading
+2023-08-22 11:16:12,434 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\python-3.9.17-h6244533_0\\Lib\\lib2to3\\fixes\\fix_xreadlines.py', reloading
+2023-08-22 11:16:13,052 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\python-3.9.17-h6244533_0\\Lib\\lib2to3\\fixes\\fix_zip.py', reloading
+2023-08-22 11:16:13,055 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\python-3.9.17-h6244533_0\\Lib\\lib2to3\\fixes\\__init__.py', reloading
+2023-08-22 11:16:15,328 INFO werkzeug MainThread :  * Restarting with watchdog (windowsapi)
+2023-08-22 11:16:46,313 WARNING werkzeug MainThread :  * Debugger is active!
+2023-08-22 11:16:46,346 INFO werkzeug MainThread :  * Debugger PIN: 801-006-101
+2023-08-22 11:16:47,401 WARNING werkzeug Thread-2 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2023-08-22 11:16:47,402 INFO werkzeug Thread-2 :  * Running on http://10.64.1.52:5000/ (Press CTRL+C to quit)
+2023-08-22 11:16:47,766 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\python-3.9.17-h6244533_0\\Lib\\sqlite3\\test\\backup.py', reloading
+2023-08-22 11:16:48,388 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\python-3.9.17-h6244533_0\\Lib\\sqlite3\\test\\dbapi.py', reloading
+2023-08-22 11:16:48,392 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\python-3.9.17-h6244533_0\\Lib\\sqlite3\\test\\dump.py', reloading
+2023-08-22 11:16:49,014 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\python-3.9.17-h6244533_0\\Lib\\sqlite3\\test\\factory.py', reloading
+2023-08-22 11:16:49,021 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\python-3.9.17-h6244533_0\\Lib\\sqlite3\\test\\hooks.py', reloading
+2023-08-22 11:16:50,549 INFO werkzeug MainThread :  * Restarting with watchdog (windowsapi)
+2023-08-22 11:17:09,594 WARNING werkzeug MainThread :  * Debugger is active!
+2023-08-22 11:17:09,631 INFO werkzeug MainThread :  * Debugger PIN: 801-006-101
+2023-08-22 11:17:10,591 WARNING werkzeug Thread-2 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2023-08-22 11:17:10,591 INFO werkzeug Thread-2 :  * Running on http://10.64.1.52:5000/ (Press CTRL+C to quit)
+2023-08-22 11:17:11,959 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\python-3.9.17-h6244533_0\\Lib\\tkinter\\colorchooser.py', reloading
+2023-08-22 11:17:13,702 INFO werkzeug MainThread :  * Restarting with watchdog (windowsapi)
+2023-08-22 11:17:42,396 WARNING werkzeug MainThread :  * Debugger is active!
+2023-08-22 11:17:42,430 INFO werkzeug MainThread :  * Debugger PIN: 801-006-101
+2023-08-22 11:17:43,675 WARNING werkzeug Thread-2 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2023-08-22 11:17:43,675 INFO werkzeug Thread-2 :  * Running on http://10.64.1.52:5000/ (Press CTRL+C to quit)
+2023-08-22 11:18:03,464 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\python-3.9.17-h6244533_0\\tcl\\tix8.4.3\\pref\\WmDefault.py', reloading
+2023-08-22 11:18:06,798 INFO werkzeug MainThread :  * Restarting with watchdog (windowsapi)
+2023-08-22 11:18:31,480 WARNING werkzeug MainThread :  * Debugger is active!
+2023-08-22 11:18:31,511 INFO werkzeug MainThread :  * Debugger PIN: 801-006-101
+2023-08-22 11:18:32,472 WARNING werkzeug Thread-2 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2023-08-22 11:18:32,473 INFO werkzeug Thread-2 :  * Running on http://10.64.1.52:5000/ (Press CTRL+C to quit)
+2023-08-22 11:18:35,612 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\python-jsonrpc-server-0.4.0-py_0\\info\\test\\run_test.py', reloading
+2023-08-22 11:18:37,765 INFO werkzeug MainThread :  * Restarting with watchdog (windowsapi)
+2023-08-22 11:18:56,807 WARNING werkzeug MainThread :  * Debugger is active!
+2023-08-22 11:18:56,845 INFO werkzeug MainThread :  * Debugger PIN: 801-006-101
+2023-08-22 11:18:57,933 WARNING werkzeug Thread-2 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2023-08-22 11:18:57,934 INFO werkzeug Thread-2 :  * Running on http://10.64.1.52:5000/ (Press CTRL+C to quit)
+2023-08-22 11:18:58,051 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\python-libarchive-c-2.9-pyhd3eb1b0_1\\site-packages\\libarchive\\read.py', reloading
+2023-08-22 11:18:58,052 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\python-libarchive-c-2.9-pyhd3eb1b0_1\\site-packages\\libarchive\\read.py', reloading
+2023-08-22 11:18:58,055 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\python-libarchive-c-2.9-pyhd3eb1b0_1\\site-packages\\libarchive\\read.py', reloading
+2023-08-22 11:18:58,060 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\python-libarchive-c-2.9-pyhd3eb1b0_1\\site-packages\\libarchive\\write.py', reloading
+2023-08-22 11:18:58,061 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\python-libarchive-c-2.9-pyhd3eb1b0_1\\site-packages\\libarchive\\write.py', reloading
+2023-08-22 11:18:58,675 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\python-libarchive-c-2.9-pyhd3eb1b0_1\\site-packages\\libarchive\\__init__.py', reloading
+2023-08-22 11:18:58,676 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\python-libarchive-c-2.9-pyhd3eb1b0_1\\site-packages\\libarchive\\__init__.py', reloading
+2023-08-22 11:18:58,678 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\python-libarchive-c-2.9-pyhd3eb1b0_1\\site-packages\\libarchive\\__init__.py', reloading
+2023-08-22 11:19:01,400 INFO werkzeug MainThread :  * Restarting with watchdog (windowsapi)
+2023-08-22 11:19:22,072 WARNING werkzeug MainThread :  * Debugger is active!
+2023-08-22 11:19:22,107 INFO werkzeug MainThread :  * Debugger PIN: 801-006-101
+2023-08-22 11:19:23,068 WARNING werkzeug Thread-2 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2023-08-22 11:19:23,069 INFO werkzeug Thread-2 :  * Running on http://10.64.1.52:5000/ (Press CTRL+C to quit)
+2023-08-22 11:19:28,271 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\python-lsp-black-1.2.1-py39haa95532_0\\info\\test\\run_test.py', reloading
+2023-08-22 11:19:29,808 INFO werkzeug MainThread :  * Restarting with watchdog (windowsapi)
+2023-08-22 11:19:59,102 WARNING werkzeug MainThread :  * Debugger is active!
+2023-08-22 11:19:59,151 INFO werkzeug MainThread :  * Debugger PIN: 801-006-101
+2023-08-22 11:20:00,469 WARNING werkzeug Thread-2 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2023-08-22 11:20:00,470 INFO werkzeug Thread-2 :  * Running on http://10.64.1.52:5000/ (Press CTRL+C to quit)
+2023-08-22 11:20:05,214 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\pytorch-1.12.1-cpu_py39h5e1f01c_1\\info\\test\\test\\jit\\fixtures_srcs\\generate_models.py', reloading
+2023-08-22 11:20:05,218 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\pytorch-1.12.1-cpu_py39h5e1f01c_1\\info\\test\\test\\jit\\fixtures_srcs\\test_upgrader_models_generation.py', reloading
+2023-08-22 11:20:05,834 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\pytorch-1.12.1-cpu_py39h5e1f01c_1\\info\\test\\test\\jit\\fixtures_srcs\\__init__.py', reloading
+2023-08-22 11:20:05,842 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\pytorch-1.12.1-cpu_py39h5e1f01c_1\\info\\test\\test\\jit\\_imported_class_test\\very\\very\\nested.py', reloading
+2023-08-22 11:20:06,457 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\pytorch-1.12.1-cpu_py39h5e1f01c_1\\info\\test\\test\\jit\\_imported_class_test\\very\\very\\__init__.py', reloading
+2023-08-22 11:20:06,460 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\pytorch-1.12.1-cpu_py39h5e1f01c_1\\info\\test\\test\\jit\\_imported_class_test\\very\\__init__.py', reloading
+2023-08-22 11:20:06,465 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\pytorch-1.12.1-cpu_py39h5e1f01c_1\\info\\test\\test\\jit\\_imported_class_test\\bar.py', reloading
+2023-08-22 11:20:08,455 INFO werkzeug MainThread :  * Restarting with watchdog (windowsapi)
+2023-08-22 11:20:49,924 WARNING werkzeug MainThread :  * Debugger is active!
+2023-08-22 11:20:49,964 INFO werkzeug MainThread :  * Debugger PIN: 801-006-101
+2023-08-22 11:20:51,090 WARNING werkzeug Thread-2 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2023-08-22 11:20:51,091 INFO werkzeug Thread-2 :  * Running on http://10.64.1.52:5000/ (Press CTRL+C to quit)
+2023-08-22 11:21:34,090 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\pytorch-1.12.1-cpu_py39h5e1f01c_1\\info\\test\\test\\onnx\\model_defs\\dcgan.py', reloading
+2023-08-22 11:21:35,602 INFO werkzeug MainThread :  * Restarting with watchdog (windowsapi)
+2023-08-22 11:22:07,158 WARNING werkzeug MainThread :  * Debugger is active!
+2023-08-22 11:22:07,199 INFO werkzeug MainThread :  * Debugger PIN: 801-006-101
+2023-08-22 11:22:08,384 WARNING werkzeug Thread-2 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2023-08-22 11:22:08,385 INFO werkzeug Thread-2 :  * Running on http://10.64.1.52:5000/ (Press CTRL+C to quit)
+2023-08-22 11:22:08,470 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\pytorch-1.12.1-cpu_py39h5e1f01c_1\\info\\test\\test\\test_spectral_ops.py', reloading
+2023-08-22 11:22:09,089 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\pytorch-1.12.1-cpu_py39h5e1f01c_1\\info\\test\\test\\test_static_runtime.py', reloading
+2023-08-22 11:22:09,096 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\pytorch-1.12.1-cpu_py39h5e1f01c_1\\info\\test\\test\\test_subclass.py', reloading
+2023-08-22 11:22:10,334 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\pytorch-1.12.1-cpu_py39h5e1f01c_1\\info\\test\\test\\test_tensorexpr_pybind.py', reloading
+2023-08-22 11:22:10,366 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\pytorch-1.12.1-cpu_py39h5e1f01c_1\\info\\test\\test\\test_tensor_creation_ops.py', reloading
+2023-08-22 11:22:11,863 INFO werkzeug MainThread :  * Restarting with watchdog (windowsapi)
+2023-08-22 11:22:40,391 WARNING werkzeug MainThread :  * Debugger is active!
+2023-08-22 11:22:40,423 INFO werkzeug MainThread :  * Debugger PIN: 801-006-101
+2023-08-22 11:22:41,400 WARNING werkzeug Thread-2 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2023-08-22 11:22:41,400 INFO werkzeug Thread-2 :  * Running on http://10.64.1.52:5000/ (Press CTRL+C to quit)
+2023-08-22 11:22:41,742 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\pytorch-1.12.1-cpu_py39h5e1f01c_1\\Lib\\site-packages\\caffe2\\contrib\\warpctc\\__init__.py', reloading
+2023-08-22 11:22:41,748 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\pytorch-1.12.1-cpu_py39h5e1f01c_1\\Lib\\site-packages\\caffe2\\contrib\\__init__.py', reloading
+2023-08-22 11:22:42,383 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\pytorch-1.12.1-cpu_py39h5e1f01c_1\\Lib\\site-packages\\caffe2\\core\\nomnigraph\\op_gen.py', reloading
+2023-08-22 11:22:42,991 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\pytorch-1.12.1-cpu_py39h5e1f01c_1\\Lib\\site-packages\\caffe2\\core\\nomnigraph\\__init__.py', reloading
+2023-08-22 11:22:43,000 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\pytorch-1.12.1-cpu_py39h5e1f01c_1\\Lib\\site-packages\\caffe2\\core\\__init__.py', reloading
+2023-08-22 11:22:44,537 INFO werkzeug MainThread :  * Restarting with watchdog (windowsapi)
+2023-08-22 11:23:05,483 WARNING werkzeug MainThread :  * Debugger is active!
+2023-08-22 11:23:05,533 INFO werkzeug MainThread :  * Debugger PIN: 801-006-101
+2023-08-22 11:23:06,776 WARNING werkzeug Thread-2 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2023-08-22 11:23:06,777 INFO werkzeug Thread-2 :  * Running on http://10.64.1.52:5000/ (Press CTRL+C to quit)
+2023-08-22 11:23:07,125 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\pytorch-1.12.1-cpu_py39h5e1f01c_1\\Lib\\site-packages\\caffe2\\python\\helpers\\array_helpers.py', reloading
+2023-08-22 11:23:07,731 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\pytorch-1.12.1-cpu_py39h5e1f01c_1\\Lib\\site-packages\\caffe2\\python\\helpers\\control_ops.py', reloading
+2023-08-22 11:23:08,346 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\pytorch-1.12.1-cpu_py39h5e1f01c_1\\Lib\\site-packages\\caffe2\\python\\helpers\\db_input.py', reloading
+2023-08-22 11:23:08,350 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\pytorch-1.12.1-cpu_py39h5e1f01c_1\\Lib\\site-packages\\caffe2\\python\\helpers\\dropout.py', reloading
+2023-08-22 11:23:08,964 INFO werkzeug Thread-1 :  * Detected change in 'C:\\ProgramData\\Anaconda3\\pkgs\\pytorch-1.12.1-cpu_py39h5e1f01c_1\\Lib\\site-packages\\caffe2\\python\\helpers\\fc.py', reloading
+2023-08-22 11:23:10,488 INFO werkzeug MainThread :  * Restarting with watchdog (windowsapi)
+2023-08-22 11:23:38,438 WARNING werkzeug MainThread :  * Debugger is active!
+2023-08-22 11:23:38,469 INFO werkzeug MainThread :  * Debugger PIN: 801-006-101
+2023-08-22 11:23:39,897 WARNING werkzeug Thread-2 :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2023-08-22 11:23:39,898 INFO werkzeug Thread-2 :  * Running on http://10.64.1.52:5000/ (Press CTRL+C to quit)

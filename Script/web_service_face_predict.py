@@ -11,6 +11,7 @@ import io
 import base64 
 from PIL import Image
 import logging
+from waitress import serve
 
 
 confidence_t=0.9
@@ -69,7 +70,7 @@ def load_pickle(path):
     return encoding_dict
 
 def detect(img, detector,encoder,encoding_dict, filename):
-    match = False
+    detect_match = False
     img_rgb = img
     #img_rgb = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
     results = detector.detect_faces(img_rgb)
@@ -83,29 +84,22 @@ def detect(img, detector,encoder,encoding_dict, filename):
         name = 'Inconnu'
 
         distance = float("inf")
-        app.logger.info("name before")
-        app.logger.info(encoding_dict.items())
-        app.logger.info(name)
         for db_name, db_encode in encoding_dict.items():
-            app.logger.info(db_name)
             dist = cosine(db_encode, encode)
             if dist < recognition_t and dist < distance:
                 name = db_name
                 distance = dist
         img = toRGB(img)
-        app.logger.info("name after")
-        app.logger.info( encoding_dict.items())
-        app.logger.info(name)
         
         if name == 'Inconnu':
             cv2.rectangle(img, pt_1, pt_2, (0, 255, 0), 2)
             cv2.putText(img, name, pt_1, cv2.FONT_HERSHEY_SIMPLEX, 2, (0, 200, 200), 1)
         else:
-            match = True
+            detect_match = True
             cv2.rectangle(img, pt_1, pt_2, (0, 0, 255), 2)
             cv2.putText(img, name + f'_{1-distance:.2f}', (pt_1[0], pt_1[1] - 5), cv2.FONT_HERSHEY_SIMPLEX, 1,
                         (0, 0, 255), 2)
-    return img, match 
+    return img, detect_match 
 
 def add_face_embedding(img, face_name):
     img_RGB = cv2.cvtColor(np.array(img), cv2.COLOR_BGR2RGB)
@@ -143,9 +137,10 @@ def postRequestPredict():
             
             srcImg = stringToImage(src_img_base64)
             #app.logger.info(src_img_base64)
-            outImg, match = detect(srcImg , face_detector , face_encoder , encoding_dict, name)        
-
-            if match == False and edit_mode == 1: 
+            outImg, match = detect(srcImg , face_detector , face_encoder , encoding_dict, name)
+            
+            comparisonVal = ((match == False) and (int(edit_mode) == 1))
+            if comparisonVal:
                 add_face_embedding(srcImg, name)
         
             # save the encodings    
@@ -171,7 +166,7 @@ def postRequestPredict():
         else:
             return 'Content-Type not supported!'
     except Exception as ex:
-        app.logger.error(str(ex))
+        app.logger.error("Error: " + str(ex))
 
 if __name__ == "__main__":
     
@@ -192,5 +187,7 @@ if __name__ == "__main__":
     encodes = []
     l2_normalizer = Normalizer('l2')
     
-    app.debug = True
-    app.run(host='0.0.0.0', port=5000)
+    serve(app, port=8080)
+    
+    #app.debug = True
+    #app.run(host='0.0.0.0', port=5000)

@@ -17,5 +17,8 @@
 	},
 	"cardpresso": {
 		"path": "C:\\Program Files\\cardPresso\\cardPresso.exe"
+	},
+	"webservice": {
+		"base_url": "http://localhost:8080"
 	}
 }
